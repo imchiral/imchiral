@@ -1,16 +1,19 @@
-### Hi there 👋
+## imchiral
+Harassing the developers won't speed up the development process.
 
-<!--
-**imchiral/imchiral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Knowledge
+- Typescript
+- Rust
+- Python
+- HTML, CSS
 
-Here are some ideas to get you started:
+### 🔧 Works
+- ~~Extrack V1 {Rust Grabber}~~ (**Discontinued**)
+- ~~Extrack V2 {Backend, Grab API, Rust Grabber}~~ (**Discontinued**)
+- Extrack {Backend, Grab API}
+- Extrack Nebula {Backend}
+- Extrack Supernova {Backend}
+- Extrack Saturn {Backend, UI}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✉️ Contact me
+[Telegram](https://t.me/imchiral)
