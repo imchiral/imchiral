@@ -17,3 +17,4 @@ Harassing the developers won't speed up the development process.
 
 ### ✉️ Contact me
 [Telegram](https://t.me/imchiral)
+[Discord](https://discord.com/users/1030165837274947635)
